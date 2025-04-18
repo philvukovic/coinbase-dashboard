@@ -52,7 +52,7 @@ The dashboard is available to view [here](https://lookerstudio.google.com/report
 
 2) Today's Trading Activity - the daily job takes the top cryptocurrencies by volume and you can see them compared in a pie chart. The graph is configured to only show the most recent data.
  
-Example dashboard: ![image](https://user-images.githubusercontent.com/4315804/159771458-b924d0c1-91d5-4a8a-8c34-f36c25c31a3c.png)
+Example dashboard: ![image](dashboard_example.png)
 
 ## Technologies
 
